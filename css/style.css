@@ -1,0 +1,163 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Gochi Hand', cursive;
+  font-size: 2em;
+
+}
+
+h1 {
+
+  font-family: 'Sacramento',cursive;
+  margin-top: 30px ;
+  margin-bottom: 0;
+  font-size: 5.625rem;
+  color: #66BFBF;
+
+}
+h2 {
+  font-family: 'Patua One', cursive;
+  font-size: 3.5rem;
+  font-weight: normal;
+  color: #66BFBF;
+  margin-bottom: 0;
+}
+
+h3 {
+font-family: 'Patua One', cursive;
+color:#11999E;
+}
+a {
+  color:#11999E;
+}
+p {
+  margin:0;
+  font-size: 1em;
+  color:#40514e;
+}
+.brain {
+    position: relative;
+    bottom: -10px;
+    width: 45%;
+}
+.top-container {
+  background-color: #f2e9dc;
+  position: relative;
+  padding-top: 100px;
+}
+.me {
+  width: 25%;
+  margin-top:50px;
+}
+hr {
+border:dotted #eaf6f6 16px;
+width: 5%;
+border-bottom: none;
+margin: 100px auto;
+
+
+}
+/**
+.middle-container {
+position: relative;
+}
+
+.bottom-container {
+position: relative;
+
+}
+**/
+
+.pro {
+text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 545px;
+  top: 525px;
+  width: 12%;
+
+
+}
+.bottom-cloud {
+  position: absolute;
+  left: 485px;
+  bottom: 100px;
+  width: 10%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skills-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 10%;
+}
+.profile{
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  line-height: 2;
+
+}
+.skills2-img {
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+
+}
+
+.bottom-container {
+  padding:100px;
+  margin-top: 80px;
+  background-color: #66bfbf;
+}
+
+.footer-link {
+  margin:20px;
+  text-decoration: none;
+}
+.footer-link:hover {
+  color:white;
+}
+
+.bottom-p{
+  margin-bottom: 20px;
+}
+.bov {
+  padding:20px;
+
+  color:white;
+}
+
+
+.btn {
+box-shadow: 0px 0px 0px 0px #f0f7fa;
+background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+background-color:#33bdef;
+border-radius:11px;
+border:1px solid #057fd0;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family:Trebuchet MS;
+font-size:18px;
+font-weight:bold;
+padding:19px 35px;
+text-decoration:none;
+text-shadow:0px 2px 0px #5b6178;
+}
+.btn:hover {
+background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+background-color:#019ad2;
+}
+.btn:active {
+position:relative;
+top:1px;
+}
